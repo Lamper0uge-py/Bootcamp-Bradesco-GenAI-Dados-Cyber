@@ -4,6 +4,14 @@
 
 > Projeto desenvolvido durante o Bootcamp Bradesco - GenAI, Dados & Cyber da DIO, utilizando o NotebookLM como ferramenta de aprendizagem ativa e apoio à análise de fontes.
 
+## 📂 Estrutura do projeto
+
+```
+StudyLab-NotebookLM/
+├── docs/                                       # Miniguia de estudo em PDF
+└── README.md                                   # Este arquivo
+```
+
 ## 🎯 Contexto e Objetivos
 
 ### Contexto
