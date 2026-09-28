@@ -1,0 +1,122 @@
+[
+    {
+        "conceito": "Reserva de emergência",
+        "nivel": "basico",
+        "categoria": "planejamento_financeiro",
+        "definicao": "Valor separado para cobrir despesas inesperadas ou situações de emergência financeira.",
+        "explicacao": "A reserva de emergência ajuda a evitar que imprevistos, como despesas médicas ou perda temporária de renda, comprometam o orçamento ou levem ao uso de crédito caro.",
+        "exemplo": "Uma pessoa com despesas essenciais de R$ 3.000 por mês pode estabelecer uma meta de reserva equivalente a alguns meses dessas despesas."
+    },
+    {
+        "conceito": "Juros compostos",
+        "nivel": "basico",
+        "categoria": "matematica_financeira",
+        "definicao": "Forma de cálculo em que os juros de cada período são incorporados ao valor acumulado para o cálculo dos juros dos períodos seguintes.",
+        "explicacao": "Nos juros compostos, os rendimentos podem gerar novos rendimentos ao longo do tempo.",
+        "exemplo": "Uma aplicação de R$ 1.000 com rendimento de 1% ao mês passa a considerar o valor acumulado para calcular os juros do mês seguinte."
+    },
+    {
+        "conceito": "Orçamento pessoal",
+        "nivel": "basico",
+        "categoria": "planejamento_financeiro",
+        "definicao": "Planejamento das receitas e despesas de uma pessoa durante determinado período.",
+        "explicacao": "O orçamento permite visualizar quanto dinheiro entra, quanto sai e como os recursos estão sendo distribuídos.",
+        "exemplo": "Uma pessoa que recebe R$ 5.000 por mês pode registrar suas despesas de moradia, alimentação, transporte, lazer e outras categorias."
+    },
+    {
+        "conceito": "Receita",
+        "nivel": "basico",
+        "categoria": "organizacao_financeira",
+        "definicao": "Valor recebido por uma pessoa durante determinado período.",
+        "explicacao": "Receitas podem vir de salário, trabalho autônomo, aluguéis ou outras fontes de entrada de dinheiro.",
+        "exemplo": "Um salário mensal de R$ 5.000 representa uma receita para o orçamento pessoal."
+    },
+    {
+        "conceito": "Despesa fixa",
+        "nivel": "basico",
+        "categoria": "organizacao_financeira",
+        "definicao": "Despesa que normalmente possui valor ou comportamento previsível e ocorre de forma recorrente.",
+        "explicacao": "Despesas fixas fazem parte dos compromissos financeiros recorrentes e devem ser consideradas no planejamento mensal.",
+        "exemplo": "O aluguel mensal de R$ 1.200 pode ser classificado como uma despesa fixa."
+    },
+    {
+        "conceito": "Despesa variável",
+        "nivel": "basico",
+        "categoria": "organizacao_financeira",
+        "definicao": "Despesa cujo valor pode variar de um período para outro.",
+        "explicacao": "O valor das despesas variáveis pode mudar conforme o consumo ou as necessidades de cada período.",
+        "exemplo": "Os gastos com supermercado podem variar de um mês para outro de acordo com o consumo da família."
+    },
+    {
+        "conceito": "Patrimônio",
+        "nivel": "basico",
+        "categoria": "planejamento_financeiro",
+        "definicao": "Conjunto de bens, direitos e recursos financeiros pertencentes a uma pessoa.",
+        "explicacao": "O patrimônio representa uma visão mais ampla da situação financeira e pode incluir dinheiro, investimentos, imóveis e outros bens, considerando também obrigações financeiras quando aplicável.",
+        "exemplo": "Uma pessoa pode possuir dinheiro em conta, investimentos e um imóvel, que fazem parte de sua situação patrimonial."
+    },
+    {
+        "conceito": "Liquidez",
+        "nivel": "basico",
+        "categoria": "investimentos",
+        "definicao": "Facilidade e velocidade com que um ativo pode ser convertido em dinheiro, considerando suas condições de negociação ou resgate.",
+        "explicacao": "Quanto maior a facilidade de transformar um ativo em dinheiro, maior tende a ser sua liquidez.",
+        "exemplo": "Um produto financeiro com possibilidade de resgate diário possui, em geral, maior liquidez do que outro cujo resgate só pode ocorrer após determinado prazo."
+    },
+    {
+        "conceito": "Risco financeiro",
+        "nivel": "basico",
+        "categoria": "investimentos",
+        "definicao": "Possibilidade de ocorrer um resultado financeiro diferente do esperado ou de haver perda de recursos.",
+        "explicacao": "Diferentes produtos financeiros apresentam diferentes tipos e níveis de risco, e não existe investimento completamente livre de riscos.",
+        "exemplo": "Um produto cujo valor pode variar diariamente apresenta risco de perda de valor durante determinado período."
+    },
+    {
+        "conceito": "Renda fixa",
+        "nivel": "basico",
+        "categoria": "investimentos",
+        "definicao": "Categoria de investimentos em que as condições de remuneração são definidas no momento da aplicação ou seguem uma regra previamente estabelecida.",
+        "explicacao": "Produtos de renda fixa podem possuir diferentes emissores, prazos, formas de remuneração, liquidez e riscos.",
+        "exemplo": "CDBs e títulos públicos são exemplos de produtos que podem fazer parte da categoria de renda fixa."
+    },
+    {
+        "conceito": "Diversificação",
+        "nivel": "medio",
+        "categoria": "gestao_de_risco",
+        "definicao": "Estratégia de distribuir recursos entre diferentes ativos ou categorias para reduzir a concentração de riscos.",
+        "explicacao": "A diversificação não elimina os riscos, mas pode reduzir o impacto de um problema concentrado em determinado ativo ou categoria.",
+        "exemplo": "Uma pessoa pode distribuir seus recursos entre diferentes classes de ativos em vez de concentrar todo o patrimônio em uma única alternativa."
+    },
+    {
+        "conceito": "Alocação de ativos",
+        "nivel": "medio",
+        "categoria": "planejamento_de_investimentos",
+        "definicao": "Distribuição dos recursos entre diferentes classes de ativos de acordo com objetivos, prazo e características do investidor.",
+        "explicacao": "A alocação considera fatores como objetivos financeiros, horizonte de tempo e tolerância ao risco.",
+        "exemplo": "Uma pessoa que possui objetivos financeiros diferentes pode organizar seus recursos de acordo com o prazo e as características de cada objetivo."
+    },
+    {
+        "conceito": "Rentabilidade nominal e real",
+        "nivel": "medio",
+        "categoria": "analise_financeira",
+        "definicao": "A rentabilidade nominal representa o retorno de uma aplicação sem descontar a inflação, enquanto a rentabilidade real considera o efeito da inflação sobre esse retorno.",
+        "explicacao": "Comparar a rentabilidade com a inflação ajuda a compreender se houve aumento ou redução do poder de compra dos recursos.",
+        "exemplo": "Uma aplicação que rende 8% em um período com inflação de 5% teve rentabilidade nominal de 8%, mas seu ganho real foi inferior a esse percentual."
+    },
+    {
+        "conceito": "Perfil do investidor",
+        "nivel": "avancado",
+        "categoria": "planejamento_de_investimentos",
+        "definicao": "Conjunto de características que ajudam a compreender a relação de uma pessoa com risco, objetivos, prazo e investimentos.",
+        "explicacao": "O perfil pode considerar fatores como capacidade de assumir perdas, tolerância ao risco, objetivos financeiros e horizonte de investimento. Ele é apenas um dos elementos utilizados na avaliação de uma decisão financeira.",
+        "exemplo": "Duas pessoas com a mesma renda podem possuir perfis diferentes devido aos seus objetivos, prazos e tolerância a riscos."
+    },
+    {
+        "conceito": "Risco de crédito",
+        "nivel": "avancado",
+        "categoria": "gestao_de_risco",
+        "definicao": "Possibilidade de uma instituição ou emissor não cumprir suas obrigações financeiras conforme estabelecido.",
+        "explicacao": "O risco de crédito está relacionado à capacidade e às condições do emissor de cumprir seus compromissos financeiros.",
+        "exemplo": "Ao adquirir um título emitido por uma instituição, o investidor está sujeito ao risco de que o emissor não cumpra suas obrigações."
+    }
+]

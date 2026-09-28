@@ -1,0 +1,90 @@
+[
+    {
+        "conceito": "Inflação",
+        "nivel": "basico",
+        "categoria": "economia_basica",
+        "definicao": "Aumento generalizado dos preços de bens e serviços ao longo do tempo.",
+        "explicacao": "Quando os preços aumentam, o dinheiro perde poder de compra, fazendo com que uma mesma quantia possa comprar menos produtos ou serviços.",
+        "exemplo": "Se uma cesta de produtos custa R$ 100 e passa a custar R$ 105, houve um aumento de 5% no preço dessa cesta."
+    },
+    {
+        "conceito": "Poder de compra",
+        "nivel": "basico",
+        "categoria": "economia_basica",
+        "definicao": "Quantidade de bens e serviços que uma determinada quantia de dinheiro consegue adquirir.",
+        "explicacao": "O poder de compra pode diminuir quando os preços aumentam e a renda não acompanha esse aumento.",
+        "exemplo": "Se R$ 100 compravam cinco produtos e, após o aumento dos preços, passam a comprar apenas quatro, o poder de compra dessa quantia diminuiu."
+    },
+    {
+        "conceito": "Taxa Selic",
+        "nivel": "basico",
+        "categoria": "politica_monetaria",
+        "definicao": "Taxa básica de juros da economia brasileira, definida pelo Comitê de Política Monetária do Banco Central.",
+        "explicacao": "A Selic influencia diversas taxas de juros praticadas na economia e é um dos principais instrumentos utilizados na política monetária brasileira.",
+        "exemplo": "Uma alteração na Selic pode influenciar as condições de crédito, financiamento e algumas aplicações de renda fixa."
+    },
+    {
+        "conceito": "CDI",
+        "nivel": "basico",
+        "categoria": "mercado_financeiro",
+        "definicao": "Taxa de referência utilizada no mercado financeiro brasileiro, especialmente em operações de renda fixa.",
+        "explicacao": "A taxa CDI é frequentemente utilizada como referência para a rentabilidade de produtos financeiros, como determinados CDBs.",
+        "exemplo": "Um CDB que rende 100% do CDI utiliza a taxa CDI como referência para sua remuneração."
+    },
+    {
+        "conceito": "Juros",
+        "nivel": "basico",
+        "categoria": "economia_basica",
+        "definicao": "Valor cobrado ou recebido pelo uso de dinheiro durante determinado período.",
+        "explicacao": "Os juros podem representar o custo de tomar dinheiro emprestado ou a remuneração recebida por disponibilizar dinheiro.",
+        "exemplo": "Ao contratar um empréstimo, a pessoa normalmente paga juros além do valor que tomou emprestado."
+    },
+    {
+        "conceito": "Oferta e demanda",
+        "nivel": "basico",
+        "categoria": "economia_basica",
+        "definicao": "Relação entre a quantidade de produtos ou serviços disponíveis e o interesse dos consumidores em adquiri-los.",
+        "explicacao": "Mudanças na oferta ou na demanda podem influenciar os preços de produtos e serviços.",
+        "exemplo": "Se a oferta de determinado produto diminui enquanto a procura permanece alta, seu preço pode aumentar."
+    },
+    {
+        "conceito": "PIB",
+        "nivel": "basico",
+        "categoria": "indicadores_economicos",
+        "definicao": "Produto Interno Bruto é uma medida do valor dos bens e serviços finais produzidos em uma economia durante determinado período.",
+        "explicacao": "O PIB é um dos principais indicadores utilizados para acompanhar a atividade econômica de um país.",
+        "exemplo": "O crescimento do PIB pode indicar aumento da atividade econômica, mas não significa necessariamente que todas as pessoas tenham aumentado sua renda."
+    },
+    {
+        "conceito": "Juros reais",
+        "nivel": "medio",
+        "categoria": "economia_financeira",
+        "definicao": "Retorno de uma aplicação financeira após considerar o efeito da inflação.",
+        "explicacao": "Os juros reais ajudam a avaliar quanto o poder de compra do dinheiro aumentou ou diminuiu após considerar a inflação.",
+        "exemplo": "Se uma aplicação rende 10% ao ano e a inflação no mesmo período é de aproximadamente 4%, o ganho real será inferior aos 10% nominais."
+    },
+    {
+        "conceito": "Política monetária",
+        "nivel": "medio",
+        "categoria": "politica_monetaria",
+        "definicao": "Conjunto de medidas utilizadas pela autoridade monetária para influenciar as condições financeiras e monetárias da economia.",
+        "explicacao": "No Brasil, o Banco Central utiliza instrumentos de política monetária para buscar manter a inflação sob controle e contribuir para a estabilidade econômica.",
+        "exemplo": "O aumento da taxa Selic pode ser utilizado como instrumento de política monetária em um cenário de pressão inflacionária."
+    },
+    {
+        "conceito": "Índice de Preços ao Consumidor Amplo (IPCA)",
+        "nivel": "medio",
+        "categoria": "indicadores_economicos",
+        "definicao": "Índice utilizado como referência para medir a variação de preços de uma cesta de bens e serviços consumidos pelas famílias.",
+        "explicacao": "O IPCA é calculado pelo IBGE e é utilizado como referência para o acompanhamento da inflação no Brasil.",
+        "exemplo": "Quando o IPCA registra aumento em determinado período, isso indica que houve elevação média dos preços considerados pelo índice."
+    },
+    {
+        "conceito": "Curva de juros",
+        "nivel": "avancado",
+        "categoria": "mercado_financeiro",
+        "definicao": "Representação das taxas de juros associadas a diferentes prazos de vencimento de títulos ou operações financeiras.",
+        "explicacao": "A curva de juros permite observar como o mercado precifica as taxas para diferentes horizontes de tempo e pode refletir expectativas sobre inflação, juros e atividade econômica.",
+        "exemplo": "Uma curva com taxas maiores para prazos mais longos pode indicar que o mercado exige uma remuneração maior para assumir riscos durante períodos mais extensos."
+    }
+]

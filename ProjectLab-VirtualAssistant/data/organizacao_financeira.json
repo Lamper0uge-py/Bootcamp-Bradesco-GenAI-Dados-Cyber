@@ -1,0 +1,54 @@
+[
+    {
+        "tema": "Orçamento mensal",
+        "nivel": "basico",
+        "categoria": "organizacao_financeira",
+        "objetivo": "Organizar receitas e despesas para compreender como o dinheiro está sendo utilizado.",
+        "orientacoes": [
+            "Identificar todas as fontes de renda.",
+            "Listar as despesas fixas e variáveis.",
+            "Comparar as despesas com a renda disponível.",
+            "Definir prioridades financeiras."
+        ],
+        "exemplo": "Uma pessoa com renda mensal de R$ 5.000 pode registrar suas despesas por categoria para identificar quanto está destinando à moradia, alimentação, transporte, lazer e outros gastos."
+    },
+    {
+        "tema": "Controle de gastos",
+        "nivel": "basico",
+        "categoria": "organizacao_financeira",
+        "objetivo": "Acompanhar os gastos e identificar hábitos que podem comprometer o orçamento.",
+        "orientacoes": [
+            "Registrar os gastos realizados.",
+            "Classificar as despesas por categoria.",
+            "Comparar os gastos com o orçamento planejado.",
+            "Identificar despesas recorrentes e gastos que podem ser reduzidos."
+        ],
+        "exemplo": "Uma pessoa pode perceber, após registrar seus gastos durante um mês, que uma parcela significativa da renda está sendo destinada a alimentação fora de casa."
+    },
+    {
+        "tema": "Definição de metas financeiras",
+        "nivel": "basico",
+        "categoria": "planejamento_financeiro",
+        "objetivo": "Estabelecer objetivos financeiros claros e acompanhar seu progresso ao longo do tempo.",
+        "orientacoes": [
+            "Definir o objetivo financeiro.",
+            "Estabelecer o valor necessário para atingir a meta.",
+            "Definir um prazo realista.",
+            "Acompanhar periodicamente o progresso."
+        ],
+        "exemplo": "Uma pessoa que deseja acumular R$ 6.000 em 12 meses pode estabelecer uma meta de aproximadamente R$ 500 por mês."
+    },
+    {
+        "tema": "Planejamento financeiro",
+        "nivel": "medio",
+        "categoria": "planejamento_financeiro",
+        "objetivo": "Organizar a vida financeira considerando renda, despesas, objetivos, patrimônio e necessidades futuras.",
+        "orientacoes": [
+            "Avaliar a situação financeira atual.",
+            "Definir objetivos de curto, médio e longo prazo.",
+            "Organizar o orçamento de acordo com as prioridades.",
+            "Acompanhar e revisar o planejamento conforme mudanças na situação financeira."
+        ],
+        "exemplo": "Uma pessoa pode organizar seu planejamento considerando a formação da reserva de emergência, a redução de dívidas e uma futura aquisição de imóvel."
+    }
+]
